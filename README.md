@@ -1,6 +1,5 @@
 # Nauka Gita
 
-* **Abc**
-* *Def*
+* Testy w repozytorium
 
-![image boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+test test
